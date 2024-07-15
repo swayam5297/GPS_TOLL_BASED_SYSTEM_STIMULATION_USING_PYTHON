@@ -41,7 +41,7 @@ Steps
 1. Clone the repository:**
 
     sh
-    git clone https://github.com/your-username/india-highway-toll-simulation.git
+    git clone https://github.com/swayam5297/GPS_TOLL_BASED_SYSTEM_STIMULATION_USING_PYTHON.git
     
 
 2. Navigate to the project directory:**
